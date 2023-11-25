@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\personal\\documents\\unreal projects\\firstproject_repository\\arproject\\source\\arproject\\arproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\personal\\documents\\unreal projects\\firstproject_repository\\arproject\\intermediate\\build\\win64\\x64\\arprojecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\personal\\documents\\unreal projects\\firstproject_repository\\arproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\arproject\\definitions.arproject.h",
+            "c:\\users\\personal\\documents\\unreal projects\\firstproject_repository\\arproject\\source\\arproject\\arproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
